@@ -1,0 +1,19 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="1" />
+      <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="1" />
+      <entry action="MarkNotificationsAsRead@EventLog" count="1" />
+      <entry action="com.android.tools.idea.actions.AndroidNewModuleAction@AndroidProjectStructureConfigurable" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$8@BuildResults" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="2" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$ToggleSoftWraps@EventLog" count="2" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@BuildResults" count="1" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@EventLog" count="2" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>
